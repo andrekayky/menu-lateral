@@ -1,2 +1,2 @@
 # menu-lateral
-Desenvolviment ode um menu lateralpara organizar a navegação por meio de seções de froma simples e prática
+Desenvolvimento de um menu lateral para organizar a navegação por meio de seções de forma simples e prática
